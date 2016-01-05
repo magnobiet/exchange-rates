@@ -1,0 +1,12 @@
+{
+  "name": "magnobiet/exchange-rates",
+  "license": "MIT",
+  "authors": [{
+    "name": "Magno Biét",
+    "email": "magno.biet@gmail.com"
+  }],
+  "minimum-stability": "stable",
+  "require": {
+    "fightbulc/moment": "^1.12"
+  }
+}
